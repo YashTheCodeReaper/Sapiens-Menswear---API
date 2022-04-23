@@ -1,0 +1,26 @@
+{
+  "name": "sapiens_menswear_server",
+  "version": "1.0.0",
+  "description": "Sapiens Menswear Server Side Application. Uses node.js, express.js, mysql database.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yashwanthkumar arivazhagan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.2",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.3",
+    "universal-cookie": "^4.0.4",
+    "util": "^0.12.4"
+  }
+}
